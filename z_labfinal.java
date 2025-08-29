@@ -7,7 +7,7 @@ public class z_labfinal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         
-         System.out.print("enter age: ");
+         System.out.print("Enter age: ");
         int age;
         int count = 0;
         while ((age = sc.nextInt()) != -1){
@@ -202,4 +202,5 @@ public class z_labfinal {
 //        System.out.println("Sarmad");
 //    }
 //}
+
 
