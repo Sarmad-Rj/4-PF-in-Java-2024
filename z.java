@@ -6,7 +6,7 @@ public class z {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
          int count = 0;
-         System.out.println("Enter ages (enter -1 to stop):");
+         System.out.println("Enter ages (enter -1 to stop!):");
          int age;
          while ((age = scanner.nextInt()) != -1) {
              if (age >= 50 && age <= 60) {
@@ -19,4 +19,5 @@ public class z {
 
 
     }
+
 }
